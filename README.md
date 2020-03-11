@@ -1,4 +1,4 @@
-# 去掉默认上下留白的TextView
+# 一款去掉默认上下留白的TextView控件
 ## 效果如下图
 ![image](https://github.com/wangpingtaohn/ExcludePaddingTextView/blob/master/img-storage/demo.png)
 
