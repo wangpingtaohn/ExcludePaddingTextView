@@ -1,6 +1,6 @@
 # 去掉默认上下留白的TextView
 ## 效果如下图
-![image](https://github.com/wangpingtaohn/ExcludePaddingTextView/blob/master/demo.png)
+![image](https://github.com/wangpingtaohn/ExcludePaddingTextView/blob/master/img-storage/demo.png)
 
 ## 使用步骤
 1. Add it in your root build.gradle at the end of repositories:
